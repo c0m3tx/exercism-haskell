@@ -1,0 +1,22 @@
+{
+  "authors": [
+    "c0m3tx"
+  ],
+  "contributors": [],
+  "files": {
+    "solution": [
+      "src/EliudsEggs.hs",
+      "package.yaml"
+    ],
+    "test": [
+      "test/Tests.hs"
+    ],
+    "example": [
+      ".meta/examples/success-standard/src/EliudsEggs.hs"
+    ],
+    "invalidator": [
+      "stack.yaml"
+    ]
+  },
+  "blurb": "Help Eliud count the number of eggs in her chicken coop by counting the number of 1 bits in a binary representation."
+}
